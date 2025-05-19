@@ -4,11 +4,11 @@ Avec plaisir ! Voici un fichier `CONTRIBUTING.md` clair et accessible, adapté �
 
 ## 📄 CONTRIBUTING.md – Projet LLM-Mina
 
-````markdown
+
 # 🤝 Contribuer au projet LLM-Mina
 
 Merci de ton intérêt pour ce projet ! 🙌  
-Ce dépôt fait partie de l’initiative [AI Lang Africa](https://github.com/ai-lang-africa) visant à construire des modèles de langage (LLM) enracinés dans les langues africaines.
+Ce dépôt fait partie de l’initiative [AI Lang Africa](https://github.com/AI-Lang-Africa) visant à construire des modèles de langage (LLM) enracinés dans les langues africaines.
 
 Nous commençons avec la langue mina 🇹🇬🇧🇯 — et toutes les contributions sont les bienvenues, que tu sois développeur, linguiste, étudiant ou simple curieux.
 
