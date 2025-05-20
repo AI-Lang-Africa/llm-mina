@@ -1,6 +1,4 @@
 
-## 📄 CONTRIBUTING.md – Projet LLM-Mina
-
 
 # 🤝 Contribuer au projet LLM-Mina
 
