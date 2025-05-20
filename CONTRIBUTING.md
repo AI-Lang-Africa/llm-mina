@@ -1,6 +1,3 @@
-Avec plaisir ! Voici un fichier `CONTRIBUTING.md` clair et accessible, adapté à ton projet open source `llm-mina`.
-
----
 
 ## 📄 CONTRIBUTING.md – Projet LLM-Mina
 
@@ -86,6 +83,27 @@ Rends-toi ensuite sur GitHub pour ouvrir une Pull Request.
 * N’ajoute aucun fichier contenant des données personnelles ou sensibles
 
 ---
+
+
+## 🐛 Signaler un bug ou proposer une amélioration
+
+Avant de contribuer, tu peux :
+
+- **Ouvrir une issue** pour :
+  - Signaler un bug
+  - Proposer une amélioration
+  - Poser une question
+  - Suggérer une nouvelle ressource (texte, script, modèle…)
+
+➡️ Va dans l’onglet [Issues](https://github.com/ai-lang-africa/llm-mina/issues) et clique sur “New issue”.
+
+📝 Donne un titre clair, explique bien le problème ou la suggestion, et si possible ajoute :
+- un exemple de texte ou de code
+- le contexte dans lequel tu as rencontré l’erreur
+- ce que tu proposes comme solution
+
+Toutes les idées sont les bienvenues, même les simples remarques ! 💡
+
 
 ## 📬 Besoin d’aide ou de clarifications ?
 
